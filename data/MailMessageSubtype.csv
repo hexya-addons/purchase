@@ -1,0 +1,4 @@
+ID,name,default,res_model
+mt_rfq_confirmed,RFQ Confirmed,,purchase.order
+mt_rfq_approved,RFQ Approved,,purchase.order
+mt_rfq_done,RFQ Done,,purchase.order

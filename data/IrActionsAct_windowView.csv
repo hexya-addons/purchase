@@ -1,0 +1,3 @@
+ID,sequence,view_mode,view_id,act_window_id
+action_invoice_supplier_tree1_view1,,tree,account.invoice_supplier_tree,purchase_open_invoice
+action_invoice__supplier_tree1_view2,,form,account.invoice_supplier_form,purchase_open_invoice

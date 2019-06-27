@@ -1,0 +1,2 @@
+ID,name,code,prefix,padding,company_id
+seq_purchase_order,Purchase Order,purchase.order,PO,5,

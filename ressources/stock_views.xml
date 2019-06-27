@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hexya>
+    <data>
+	<view id="stock_move_purchase" model="StockMove" >
+                 <xpath expr="//group[@name='destination_grp']" position="inside">
+                    <field name="purchase_line_id"/>
+                </xpath>
+            </view>
+	<view id="view_warehouse_inherited" model="StockWarehouse" >
+                 <xpath expr="//field[@name='default_resupply_wh_id']" position="before">
+                    <field name="buy_to_resupply" />
+                </xpath>
+            </view>
+    </data>
+</hexya>

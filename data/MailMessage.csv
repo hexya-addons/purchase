@@ -1,0 +1,3 @@
+ID,model,res_id,message_type,subtype_id,subject,body
+module_install_notification,mail.channel,mail.channel_all_employees,notification,mail.mt_comment,Purchase Management application installed!,<![CDATA[<p>Create purchase orders to buy products from your vendors, control supplier bills and manage payments.</p>
+<p>If you need to manage blanket orders, purchase requisitions, or purchase tenders, activate them through the Configuration menu.</p>]]>
